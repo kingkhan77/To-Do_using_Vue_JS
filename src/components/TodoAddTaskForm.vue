@@ -11,7 +11,7 @@
     />
     <button
       type="submit"
-      class="text-white text-[8mm] ml-[20px] bg-[#47C5DC] border-none rounded-[10px] h-[12mm] w-[12mm] cursor-pointer mr-[40px] hover:bg-[#2e9fb4]"
+      class="text-white font-mono text-[8mm] ml-[20px] bg-[#47C5DC] border-none rounded-[10px] h-[12mm] w-[12mm] cursor-pointer mr-[40px] hover:bg-[#2e9fb4]"
     >
       +
     </button>
